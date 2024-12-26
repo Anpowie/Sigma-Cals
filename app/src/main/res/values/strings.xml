@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SigmaCals</string>
+    <string name="title_home">Overview</string>
+    <string name="title_dashboard">Meals</string>
+    <string name="title_notifications">Settings</string>
+
+    <string name="meals_container">Container for meals</string>
+    <string name="settings">settings</string>
+    <string name="weightInfoTextString">How much do you weigh?</string>
+    <string name="kg">Kg</string>
+    <string name="proteinsAmountInfoText">What\'s ur daily protein target?</string>
+    <string name="proteinsgPerKg">\ g per Kg of bodyweight</string>
+    <string name="caloriesAmountInfoText">What\'s your daily calorie target?</string>
+    <string name="kcal">kcal</string>
+
+</resources>

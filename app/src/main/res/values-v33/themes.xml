@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SigmaCals" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/proteins</item>
+        <item name="colorPrimaryVariant">@color/proteins</item>
+        <item name="colorOnPrimary">@color/greyWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/text</item>
+        <item name="colorSecondaryVariant">@color/cals</item>
+        <item name="colorOnSecondary">@color/text</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!--<item name="android:backdropColor">@color/greyWhite</item>-->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

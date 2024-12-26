@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#ff3333</color>
+    <color name="proteins">#66ccff</color>
+    <color name="cals">#ff6633</color>
+    <color name="text">#333333</color>
+    <color name="greyWhite">#EEEEEE</color>
+    <color name="white">#ffffff</color>
+    <color name="background">#DDD</color>
+</resources>
